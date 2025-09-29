@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\TareaPilasyColas\\TareaPilasyColas.csproj": {}
+    "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\proyectoGestionDeUnInventario\\TareaPilasyColas\\TareaPilasyColas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\TareaPilasyColas\\TareaPilasyColas.csproj": {
+    "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\proyectoGestionDeUnInventario\\TareaPilasyColas\\TareaPilasyColas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\TareaPilasyColas\\TareaPilasyColas.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\proyectoGestionDeUnInventario\\TareaPilasyColas\\TareaPilasyColas.csproj",
         "projectName": "TareaPilasyColas",
-        "projectPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\TareaPilasyColas\\TareaPilasyColas.csproj",
+        "projectPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\proyectoGestionDeUnInventario\\TareaPilasyColas\\TareaPilasyColas.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\TareaPilasyColas\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\C#\\proyectoGestionDeUnInventario\\TareaPilasyColas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

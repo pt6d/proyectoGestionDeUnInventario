@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Text.Json;
+//Eduardo Gabriel Canul May
+//Eduardo Huerta Bailon
 
 
 class Inicio
@@ -65,7 +67,7 @@ class Inicio
                     inventario.Imprimir();
                     break;
 
-                case 3: 
+                case 3:
                     Console.WriteLine("=== Buscar Producto ===");
                     Console.Write("Ingrese el ID a buscar: ");
                     int idBuscar = int.Parse(Console.ReadLine()!);
@@ -124,7 +126,7 @@ class Inicio
                     break;
 
                 case 8: // Procesar el próximo pedido (este es el queue)
-                     Console.WriteLine("=== Procesar Pedido ===");
+                    Console.WriteLine("=== Procesar Pedido ===");
                     if (pedidos.Count > 0)
                     {
                         string pedidoProcesado = pedidos.queue();
@@ -181,7 +183,7 @@ class Inicio
                         Console.WriteLine("No hay mercancía en la pila de recepción para reabastecer.");
                     }
                     break;
-                 case 11:
+                case 11:
                     Persistencia.Guardar(inventario, pedidos, mercanciaRecibida);
                     break;
 

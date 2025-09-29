@@ -1,5 +1,6 @@
 using System;
-
+//Eduardo Gabriel Canul May
+//Eduardo Huerta Bailon
 
 public class ListaPersonalizada
 {
