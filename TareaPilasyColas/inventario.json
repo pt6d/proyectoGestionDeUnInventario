@@ -1,0 +1,306 @@
+{
+  "Inventario": [
+    {
+      "Id": 25,
+      "Nombre": "Aceite Vegetal",
+      "Precio": 15,
+      "Stock": 18
+    },
+    {
+      "Id": 29,
+      "Nombre": "Aderezo Ranch",
+      "Precio": 13,
+      "Stock": 57
+    },
+    {
+      "Id": 7,
+      "Nombre": "Agua Bonafont 1L",
+      "Precio": 23,
+      "Stock": 86
+    },
+    {
+      "Id": 19,
+      "Nombre": "Arroz Schettino 1kg",
+      "Precio": 18,
+      "Stock": 42
+    },
+    {
+      "Id": 17,
+      "Nombre": "Atun en lata",
+      "Precio": 11,
+      "Stock": 91
+    },
+    {
+      "Id": 20,
+      "Nombre": "Azucar 1kg",
+      "Precio": 15,
+      "Stock": 73
+    },
+    {
+      "Id": 21,
+      "Nombre": "Cafe Nescafe",
+      "Precio": 34,
+      "Stock": 45
+    },
+    {
+      "Id": 47,
+      "Nombre": "Cereal Choco Krispis",
+      "Precio": 25,
+      "Stock": 59
+    },
+    {
+      "Id": 24,
+      "Nombre": "Cereal Zucaritas",
+      "Precio": 42,
+      "Stock": 46
+    },
+    {
+      "Id": 33,
+      "Nombre": "Cerveza Corona 6pk",
+      "Precio": 28,
+      "Stock": 28
+    },
+    {
+      "Id": 6,
+      "Nombre": "Cheetos Poffs",
+      "Precio": 14,
+      "Stock": 74
+    },
+    {
+      "Id": 31,
+      "Nombre": "Chicles Orbit",
+      "Precio": 6,
+      "Stock": 67
+    },
+    {
+      "Id": 30,
+      "Nombre": "Chocolates Hersheys",
+      "Precio": 5,
+      "Stock": 90
+    },
+    {
+      "Id": 38,
+      "Nombre": "Chocolates Kisses",
+      "Precio": 44,
+      "Stock": 45
+    },
+    {
+      "Id": 3,
+      "Nombre": "Coca-Cola 600ml",
+      "Precio": 34,
+      "Stock": 55
+    },
+    {
+      "Id": 44,
+      "Nombre": "Crema Corporal",
+      "Precio": 21,
+      "Stock": 91
+    },
+    {
+      "Id": 40,
+      "Nombre": "Detergente en Polvo",
+      "Precio": 41,
+      "Stock": 46
+    },
+    {
+      "Id": 5,
+      "Nombre": "Doritos Nacho",
+      "Precio": 38,
+      "Stock": 28
+    },
+    {
+      "Id": 16,
+      "Nombre": "Frijoles La Sierra",
+      "Precio": 39,
+      "Stock": 5
+    },
+    {
+      "Id": 37,
+      "Nombre": "Galletas de Animalitos",
+      "Precio": 48,
+      "Stock": 48
+    },
+    {
+      "Id": 1,
+      "Nombre": "Galletas Oreo",
+      "Precio": 42,
+      "Stock": 12
+    },
+    {
+      "Id": 9,
+      "Nombre": "Gansito Marinela",
+      "Precio": 33,
+      "Stock": 61
+    },
+    {
+      "Id": 45,
+      "Nombre": "Gel Antibacterial",
+      "Precio": 37,
+      "Stock": 27
+    },
+    {
+      "Id": 14,
+      "Nombre": "Huevos Blancos 12pz",
+      "Precio": 49,
+      "Stock": 5
+    },
+    {
+      "Id": 42,
+      "Nombre": "Jabon de Tocador",
+      "Precio": 29,
+      "Stock": 32
+    },
+    {
+      "Id": 15,
+      "Nombre": "Jamon de Pavo",
+      "Precio": 13,
+      "Stock": 60
+    },
+    {
+      "Id": 8,
+      "Nombre": "Jugo Del Valle",
+      "Precio": 28,
+      "Stock": 33
+    },
+    {
+      "Id": 27,
+      "Nombre": "Ketchup Heinz",
+      "Precio": 32,
+      "Stock": 65
+    },
+    {
+      "Id": 12,
+      "Nombre": "Leche Lala 1L",
+      "Precio": 50,
+      "Stock": 58
+    },
+    {
+      "Id": 28,
+      "Nombre": "Mayonesa Hellmanns",
+      "Precio": 10,
+      "Stock": 9
+    },
+    {
+      "Id": 23,
+      "Nombre": "Mermelada Smuckers",
+      "Precio": 45,
+      "Stock": 11
+    },
+    {
+      "Id": 11,
+      "Nombre": "Pan Bimbo Blanco",
+      "Precio": 14,
+      "Stock": 12
+    },
+    {
+      "Id": 50,
+      "Nombre": "Pan de Caja Integral",
+      "Precio": 19,
+      "Stock": 35
+    },
+    {
+      "Id": 39,
+      "Nombre": "Papel de Bano",
+      "Precio": 27,
+      "Stock": 76
+    },
+    {
+      "Id": 43,
+      "Nombre": "Pasta de Dientes",
+      "Precio": 5,
+      "Stock": 6
+    },
+    {
+      "Id": 18,
+      "Nombre": "Pasta para sopa",
+      "Precio": 13,
+      "Stock": 55
+    },
+    {
+      "Id": 32,
+      "Nombre": "Pastillas Tic Tac",
+      "Precio": 32,
+      "Stock": 37
+    },
+    {
+      "Id": 4,
+      "Nombre": "Pepsi 600ml",
+      "Precio": 36,
+      "Stock": 82
+    },
+    {
+      "Id": 10,
+      "Nombre": "Pinguinos Marinela",
+      "Precio": 11,
+      "Stock": 17
+    },
+    {
+      "Id": 49,
+      "Nombre": "Queso Crema Philadelphia",
+      "Precio": 47,
+      "Stock": 92
+    },
+    {
+      "Id": 13,
+      "Nombre": "Queso Panela",
+      "Precio": 50,
+      "Stock": 42
+    },
+    {
+      "Id": 36,
+      "Nombre": "Refresco Sprite",
+      "Precio": 17,
+      "Stock": 95
+    },
+    {
+      "Id": 2,
+      "Nombre": "Sabritas Originales",
+      "Precio": 13,
+      "Stock": 29
+    },
+    {
+      "Id": 26,
+      "Nombre": "Salsa Bufalo",
+      "Precio": 13,
+      "Stock": 43
+    },
+    {
+      "Id": 41,
+      "Nombre": "Shampoo Pantene",
+      "Precio": 48,
+      "Stock": 97
+    },
+    {
+      "Id": 22,
+      "Nombre": "Te Lipton",
+      "Precio": 43,
+      "Stock": 38
+    },
+    {
+      "Id": 46,
+      "Nombre": "Toallas Sanitarias",
+      "Precio": 36,
+      "Stock": 24
+    },
+    {
+      "Id": 34,
+      "Nombre": "Vino Tinto",
+      "Precio": 5,
+      "Stock": 78
+    },
+    {
+      "Id": 35,
+      "Nombre": "Vodka Smirnoff",
+      "Precio": 45,
+      "Stock": 97
+    },
+    {
+      "Id": 48,
+      "Nombre": "Yogurt Oikos",
+      "Precio": 13,
+      "Stock": 8
+    }
+  ],
+  "Pedidos": [],
+  "MercanciaRecibida": []
+}
